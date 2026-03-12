@@ -1,1 +1,21 @@
-ewogICJjaXR5X3Jlc2VhcmNoIjogewogICAgInNvdXJjZSI6ICJXaWtpcGVkIiwKICAgICJzdW1tYXJ5IjogIlNhbiBGcmFuY2lzY28sIG9mZmljaWFsbHkgdGhlIENpdHkgYW5kIENvdW50eSBvZiBTYW4gRnJhbmNpc2NvLCBpczQgYSBjb21tZXJjaWFsLCBmaW5hbmNpYWwsIGFuZCBDdWx0dXJlciBjZW50ZXIgb2YgTm9ydGhvcm4gQ2FsaW5pZmllLCB3aXRoIGEgcG9wdWxhdGlvbiBvZiA4MDguOTg4IGFzIG9mIDIwMjMsIFNhbiBGcmFuY2lzY28gaXMg dGhlIGZvdXJ0aCBtb3N0IHBvcHVsYXIgY2l0eSBpbiBDYWxuaWZpZSwgbG9jYXRlZCBvbiBhIG1lYW5kZXJpbmcgcGVuaW5haWxvbiBhdCB0aGUgZmFyIHdlc3Rlcm4gcG9pbnQgb2YgdGhlIGVwb25pbm91cyBzYW50IEZyYW5jaXMgQmF5LiBJdHMgZGVuc2UgdXJiYW4gY3VsdHVyZSBj dWx0dXJlIGhhcyBiZWVuIGNpdGVkIGFzIG9uZSBvZiB0aGUgbW9zdCBpbnRlbnNlIGluIHRoZSBVLlMsIHdpdGggc3RlZXAgcm9sbGluZyBoaWxscyBhbmQgYSBmb2dneSBjbGltYXRlLiBUaGUgY2l0eSBpcyBrbm93biBmb3IgaXRzIHRlY2ggc2NlbmUsIGJl aW5nIGEg aHVwIGZvciBpbm5vdmF0aW9uIHdpdGggY29tcGFuaWVzIGxpa2UgU2FsZXNzb3VyY2UsIFViZXIsIEFpcmJpYmUsIGFuZCBUaWNr IG Vylb3JzIGhlYWR0cmlwb3J0ZWQgdGhlcmUuIEl0cyBwYXJ0IG9mIHRoZSBTYW4gRnJhbmNpc2NvIEJheSBBcmVhLCAgc3lub21v bml..."
+{
+  "city_research": {
+    "source": "Wikipedia",
+    "summary": "San Francisco, officially the City and County of San Francisco, is a commercial, financial, and cultural center of Northern California. With a population of 808,988 as of 2023, San Francisco is the fourth most populous city in California, located on a meandering peninsula at the far western point of the eponymous San Francisco Bay. Its dense urban culture has been cited as one of the most intense in the U.S., with steep rolling hills and a foggy climate. The city is known for its tech scene, being a hub for innovation with companies like Salesforce, Uber, Airbnb, and Twitter headquartered there. It's part of the San Francisco Bay Area, synonymous with Silicon Valley's tech boom since the 1970s, fostering startups and venture capital. Historically, it grew from the Gold Rush era, becoming a major port."
+  },
+  "weather_forecast": {
+    "location": "Golden Gate Bridge",
+    "coordinates": {"lat": 37.8199109, "lng": -122.4785598},
+    "forecast_data": "Overnight: Temperature 52F, wind 6 mph NW, Mostly clear. Low around 52, with temperatures rising to around 54 overnight. Northwest wind around 6 mph."
+  },
+  "recommended_hotel": {
+    "name": "Parker Guest House",
+    "address": "520 Church St, San Francisco, CA 94114, United States",
+    "rating": 4.8,
+    "place_id": "ChIJFSz6cxl-j4AR47qHeG3ieBg"
+  },
+  "transportation": {
+    "route_title": "SFO to Downtown San Francisco",
+    "summary": "US-101 N"
+  }
+}
